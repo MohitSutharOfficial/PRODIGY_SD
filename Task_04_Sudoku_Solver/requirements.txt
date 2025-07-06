@@ -1,0 +1,23 @@
+# Sudoku Solver Requirements
+# This project uses only Python standard library modules
+
+# Core dependencies (all included in Python standard library):
+# - tkinter (GUI framework)
+# - json (data serialization)
+# - time (timing operations)
+# - copy (deep copying)
+# - os (operating system interface)
+# - datetime (date and time handling)
+# - tempfile (temporary file handling)
+# - threading (background operations)
+
+# No additional packages need to be installed
+# The project is designed to work with Python 3.6+
+
+# Optional enhancements that could be added:
+# - numpy (for advanced mathematical operations)
+# - matplotlib (for puzzle visualization)
+# - pillow (for image export)
+# - colorama (for colored terminal output)
+
+# Current implementation uses only built-in modules for maximum compatibility
