@@ -165,15 +165,6 @@ PRODIGY_SD/
 └── README.md                         # This main documentation
 ```
 
-## � Application Screenshots
-
-### Task 1: Temperature Converter
-![Temperature Converter GUI](docs/images/task1_temperature_converter.png)
-
-*Clean and intuitive interface for temperature conversion between Celsius, Fahrenheit, and Kelvin scales. Shows real-time conversion results with proper scientific accuracy.*
-
-### Additional Screenshots
-More screenshots will be added for other tasks to showcase the complete application suite and user interface designs.
 
 ## �🚀 Quick Start Guide
 
