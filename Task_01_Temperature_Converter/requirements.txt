@@ -1,0 +1,30 @@
+# Temperature Converter Requirements
+# 
+# This project uses only Python standard library modules,
+# so no additional packages need to be installed.
+#
+# Required Python version: 3.6 or higher
+#
+# Standard library modules used:
+# - tkinter (for GUI)
+# - math (for mathematical operations)
+# - sys (for system-specific parameters)
+#
+# Note: tkinter comes pre-installed with most Python installations
+# If tkinter is not available, you can install it using:
+# 
+# On Ubuntu/Debian:
+# sudo apt-get install python3-tk
+#
+# On CentOS/RHEL/Fedora:
+# sudo yum install tkinter
+# or
+# sudo dnf install python3-tkinter
+#
+# On macOS:
+# tkinter is included with Python from python.org
+#
+# On Windows:
+# tkinter is included with Python from python.org
+
+# No pip requirements needed for this project!
