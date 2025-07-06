@@ -1,6 +1,11 @@
 # PRODIGY Software Development Internship
 
-This repository contains all the programming tasks and projects completed during the PRODIGY Software Development internship program. Each task demonstrates different aspects of software development, from basic programming concepts to advanced algorithms and user interface design.
+This repository contains all the programming tasks and projects completed during the PRODIGY Software Dev## 📸 Application Screenshots
+
+### Complete Application Suite
+All five tasks are now showcased with screenshots, demonstrating the full range of software development skills from basic programming to advanced algorithms and professional GUI design.
+
+This internship program. Each task demonstrates different aspects of software development, from basic programming concepts to advanced algorithms and user interface design.
 
 ## 📋 Completed Tasks Overview
 
@@ -8,6 +13,10 @@ This repository contains all the programming tasks and projects completed during
 **Status:** Completed ✅  
 **Folder:** `Task_01_Temperature_Converter/`  
 **Description:** A comprehensive temperature conversion application that converts between Celsius, Fahrenheit, and Kelvin scales with both GUI and CLI interfaces.
+
+**Screenshot:**
+![Task 1 - Temperature Converter GUI](docs/images/task1_temperature_converter.png)
+*Temperature Converter in action - Converting 24°C to Fahrenheit and Kelvin*
 
 **Key Features:**
 - Real-time temperature conversion between C, F, and K scales
@@ -24,6 +33,10 @@ This repository contains all the programming tasks and projects completed during
 **Folder:** `Task_02_Guessing_Game/`  
 **Description:** An interactive number guessing game that challenges users to guess a randomly generated number with multiple difficulty levels and smart feedback.
 
+**Screenshot:**
+![Task 2 - Number Guessing Game GUI](docs/images/task2_guessing_game.png)
+*Number Guessing Game showing completed game with attempt history and game over dialog*
+
 **Key Features:**
 - Multiple difficulty levels (Easy, Medium, Hard, Expert, Custom)
 - Smart attempt limiting based on optimal algorithms
@@ -38,6 +51,10 @@ This repository contains all the programming tasks and projects completed during
 **Status:** Completed ✅  
 **Folder:** `Task_03_Contact_Management/`  
 **Description:** A full-featured contact management system with persistent storage, data validation, and import/export capabilities.
+
+**Screenshot:**
+![Task 3 - Contact Management System GUI](docs/images/task3_contact_management.png)
+*Contact Management System showing contact list, detailed form fields, and complete CRUD operations with import/export functionality*
 
 **Key Features:**
 - Complete CRUD operations (Create, Read, Update, Delete)
@@ -55,6 +72,10 @@ This repository contains all the programming tasks and projects completed during
 **Folder:** `Task_04_Sudoku_Solver/`  
 **Description:** A comprehensive Sudoku solving application with advanced backtracking algorithms, puzzle validation, and interactive solving capabilities.
 
+**Screenshot:**
+![Task 4 - Sudoku Solver GUI](docs/images/task4_sudoku_solver.png)
+*Advanced Sudoku Solver with interactive grid, example puzzles, validation features, and lightning-fast solving algorithm (0.069s solve time)*
+
 **Key Features:**
 - Advanced backtracking algorithm for automatic solving
 - Puzzle validation and conflict detection
@@ -71,6 +92,10 @@ This repository contains all the programming tasks and projects completed during
 **Status:** Completed ✅  
 **Folder:** `Task_05_Web_Scraping/`  
 **Description:** A professional web scraping tool for extracting product information from e-commerce websites with ethical scraping practices and multiple export formats.
+
+**Screenshot:**
+![Task 5 - Web Scraping Tool GUI](docs/images/task5_web_scraping.png)
+*Professional web scraping interface showing completed scraping session with robots.txt compliance checking, real-time progress tracking, and comprehensive data extraction capabilities*
 
 **Key Features:**
 - Multi-website support (Books, Quotes, General E-commerce)
@@ -140,7 +165,17 @@ PRODIGY_SD/
 └── README.md                         # This main documentation
 ```
 
-## 🚀 Quick Start Guide
+## � Application Screenshots
+
+### Task 1: Temperature Converter
+![Temperature Converter GUI](docs/images/task1_temperature_converter.png)
+
+*Clean and intuitive interface for temperature conversion between Celsius, Fahrenheit, and Kelvin scales. Shows real-time conversion results with proper scientific accuracy.*
+
+### Additional Screenshots
+More screenshots will be added for other tasks to showcase the complete application suite and user interface designs.
+
+## �🚀 Quick Start Guide
 
 ### Prerequisites
 - Python 3.7 or higher
@@ -230,36 +265,36 @@ pip install tkinter matplotlib pandas requests beautifulsoup4 openpyxl
 ### Task 1: Temperature Converter
 ```bash
 cd Task_01_Temperature_Converter
-python temperature_converter.py      # GUI version
-python temperature_converter_cli.py  # CLI version
+py temperature_converter.py      # GUI version
+py temperature_converter_cli.py  # CLI version
 ```
 
 ### Task 2: Number Guessing Game
 ```bash
 cd Task_02_Guessing_Game
-python guessing_game.py      # GUI version
-python guessing_game_cli.py  # CLI version
+py guessing_game.py      # GUI version
+py guessing_game_cli.py  # CLI version
 ```
 
 ### Task 3: Contact Management
 ```bash
 cd Task_03_Contact_Management
-python contact_manager.py      # GUI version
-python contact_manager_cli.py  # CLI version
+py contact_manager.py      # GUI version
+py contact_manager_cli.py  # CLI version
 ```
 
 ### Task 4: Sudoku Solver
 ```bash
 cd Task_04_Sudoku_Solver
-python sudoku_solver.py      # GUI version
-python sudoku_solver_cli.py  # CLI version
+py sudoku_solver.py      # GUI version
+py sudoku_solver_cli.py  # CLI version
 ```
 
 ### Task 5: Web Scraping Tool
 ```bash
 cd Task_05_Web_Scraping
-python web_scraper.py      # GUI version
-python web_scraper_cli.py  # CLI version
+py web_scraper.py      # GUI version
+py web_scraper_cli.py  # CLI version
 ```
 
 ## 🧪 Testing & Quality Assurance
@@ -274,7 +309,7 @@ Each task includes comprehensive testing:
 ```bash
 # Run tests for any task
 cd Task_XX_TaskName
-python test_demo.py
+py test_demo.py
 ```
 
 ## 📈 Performance & Optimization
