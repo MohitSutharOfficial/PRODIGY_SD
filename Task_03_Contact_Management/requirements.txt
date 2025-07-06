@@ -1,0 +1,14 @@
+# Contact Management System Requirements
+# This project uses only Python standard library modules
+
+# Core dependencies (all included in Python standard library):
+# - tkinter (GUI framework)
+# - json (data serialization)
+# - os (operating system interface)
+# - re (regular expressions)
+# - datetime (date and time handling)
+# - tempfile (temporary file handling)
+# - shutil (file operations)
+
+# No additional packages need to be installed
+# The project is designed to work with Python 3.6+

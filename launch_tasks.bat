@@ -5,7 +5,7 @@ echo.
 echo Available Tasks:
 echo 1. Task 1: Temperature Converter
 echo 2. Task 2: Number Guessing Game
-echo 3. Task 3: [Next Task - Not Started]
+echo 3. Task 3: Contact Management System
 echo 4. Task 4: [Next Task - Not Started]
 echo 5. Task 5: [Next Task - Not Started]
 echo 6. Exit
@@ -23,9 +23,10 @@ if "%choice%"=="1" (
     call run_game.bat
     cd ..
 ) else if "%choice%"=="3" (
-    echo Task 3 is not yet available.
-    echo Please wait for the next assignment.
-    pause
+    echo Starting Task 3: Contact Management System...
+    cd Task_03_Contact_Management
+    call run_contacts.bat
+    cd ..
 ) else if "%choice%"=="4" (
     echo Task 4 is not yet available.
     echo Please wait for the next assignment.
