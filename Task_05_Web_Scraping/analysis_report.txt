@@ -1,0 +1,44 @@
+
+WEB SCRAPING DATA ANALYSIS REPORT
+Generated: 2025-07-06 18:32:06
+================================
+
+DATASET OVERVIEW:
+• Total Records: 10
+• Date Range: 2025-07-06 12:30:45 to 2025-07-06 12:31:03
+• Columns: title, price, rating, availability, url, image_url, description, scraped_at, price_numeric, rating_numeric
+
+PRICE ANALYSIS:
+• Average Price: £40.63
+• Median Price: £48.96
+• Price Range: £17.93 - £54.23
+• Standard Deviation: £14.80
+
+RATING ANALYSIS:
+• Average Rating: 2.7 stars
+• Rating Distribution:
+rating
+One      4
+Four     3
+Three    2
+Five     1
+
+AVAILABILITY:
+availability
+In stock    10
+
+TOP 5 MOST EXPENSIVE BOOKS:
+                                title  price rating
+Sapiens: A Brief History of Humankind £54.23   Five
+                   Tipping the Velvet £53.74    One
+                      The Black Maria £52.15    One
+                 A Light in the Attic £51.77  Three
+                           Soumission £50.10    One
+
+TOP 5 HIGHEST RATED BOOKS:
+                                                                                         title  price rating
+                                                         Sapiens: A Brief History of Humankind £54.23   Five
+                                                                                 Sharp Objects £47.82   Four
+                                            The Dirty Little Secrets of Getting Your Dream Job £33.34   Four
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics £22.60   Four
+                                                                          A Light in the Attic £51.77  Three

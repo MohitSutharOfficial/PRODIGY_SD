@@ -1,3 +1,9 @@
+"""
+Number Guessing Game - GUI Version
+An interactive game where players guess a randomly generated number.
+Features multiple difficulty levels and performance tracking.
+"""
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import random

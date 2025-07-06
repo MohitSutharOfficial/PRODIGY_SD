@@ -1,0 +1,30 @@
+# Web Scraping Tool Requirements
+# Install with: pip install -r requirements.txt
+
+# Core web scraping libraries
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Data manipulation and export
+pandas>=1.5.0
+openpyxl>=3.0.0
+
+# GUI framework (usually included with Python)
+# tkinter - included with Python standard library
+
+# Additional utilities
+urllib3>=1.26.0
+certifi>=2022.0.0
+
+# Optional: For advanced features
+# selenium>=4.0.0  # For JavaScript-heavy sites
+# scrapy>=2.6.0    # For large-scale scraping projects
+# aiohttp>=3.8.0   # For async scraping
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Note: This project is designed to work with Python 3.7+
+# Some features may require Python 3.8+ for best compatibility

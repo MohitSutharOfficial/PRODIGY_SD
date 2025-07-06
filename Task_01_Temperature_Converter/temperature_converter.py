@@ -1,3 +1,9 @@
+"""
+Temperature Converter Application
+A simple GUI application for converting temperatures between Celsius, Fahrenheit, and Kelvin.
+Built for the PRODIGY Software Development Internship.
+"""
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import math

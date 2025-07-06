@@ -1,0 +1,11 @@
+title,price,rating,availability,url,image_url,description,scraped_at
+"A Light in the Attic",£51.77,Three,In stock,catalogue/page-2.html,../../../static/oscar/img/books/default-book-cover.jpg,A collection of poetry and drawings by Shel Silverstein,2025-07-06 12:30:45
+"Tipping the Velvet",£53.74,One,In stock,catalogue/page-3.html,../../../static/oscar/img/books/default-book-cover.jpg,A novel by Sarah Waters,2025-07-06 12:30:47
+"Soumission",£50.10,One,In stock,catalogue/page-4.html,../../../static/oscar/img/books/default-book-cover.jpg,A controversial novel by Michel Houellebecq,2025-07-06 12:30:49
+"Sharp Objects",£47.82,Four,In stock,catalogue/page-5.html,../../../static/oscar/img/books/default-book-cover.jpg,A psychological thriller by Gillian Flynn,2025-07-06 12:30:51
+"Sapiens: A Brief History of Humankind",£54.23,Five,In stock,catalogue/page-6.html,../../../static/oscar/img/books/default-book-cover.jpg,A book by Yuval Noah Harari,2025-07-06 12:30:53
+"The Requiem Red",£22.65,One,In stock,catalogue/page-7.html,../../../static/oscar/img/books/default-book-cover.jpg,A mystery novel,2025-07-06 12:30:55
+"The Dirty Little Secrets of Getting Your Dream Job",£33.34,Four,In stock,catalogue/page-8.html,../../../static/oscar/img/books/default-book-cover.jpg,A career advice book,2025-07-06 12:30:57
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist Victoria Woodhull",£17.93,Three,In stock,catalogue/page-9.html,../../../static/oscar/img/books/default-book-cover.jpg,A historical novel,2025-07-06 12:30:59
+"The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",£22.60,Four,In stock,catalogue/page-10.html,../../../static/oscar/img/books/default-book-cover.jpg,A sports history book,2025-07-06 12:31:01
+"The Black Maria",£52.15,One,In stock,catalogue/page-11.html,../../../static/oscar/img/books/default-book-cover.jpg,A crime novel,2025-07-06 12:31:03
