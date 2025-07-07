@@ -380,13 +380,6 @@ py test_demo.py
 - ✅ **Software Testing** - Quality assurance practices
 - ✅ **Documentation** - Clear and professional writing
 
-## 📞 Contact Information
-
-**Internship Program**: PRODIGY Software Development  
-**Repository**: This collection of programming tasks and projects  
-**Documentation**: Comprehensive guides included with each task  
-**Support**: Individual README files provide detailed usage instructions  
-
 ---
 
 **🎓 PRODIGY Software Development Internship - Professional Programming Portfolio**
